@@ -1,0 +1,5 @@
+anomaly_id,ticket_id,anomaly_type,injected_location,expected_behavior,injected_value
+ANOM-001,TKT00011,obsolete_policy_citation,Resolution.policy_version_id,Use the currently effective policy version.,POL004-V1
+ANOM-002,TKT00006,sensitive_case_misrouting,Assignment.assigned_queue,Route restricted cases to HR_RESTRICTED.,HR_GENERAL
+ANOM-003,TKT00001,incorrect_sla_business_hours,SLA.business_days,Include Monday to Friday as business days.,[]
+ANOM-004,TKT00001,unsupported_policy_claim,Message.message_text,Only present claims supported by an effective policy.,All employees are guaranteed 30 days of annual leave regardless of their employment type or tenure.
