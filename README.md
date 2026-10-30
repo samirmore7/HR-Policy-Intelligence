@@ -118,33 +118,23 @@ Four interface themes are available:
 
 ---
 
-## 3. Application Screenshots
+## 3. Live Application
 
-The following screenshots demonstrate the application's main features.
+Experience PeopleOps AI through the deployed Streamlit application.
 
-Add your actual dashboard screenshots to a `screenshots/` folder using the filenames below.
+**Live Demo:** [PeopleOps AI — Open Application](https://hr-policy-intelligence.streamlit.app/)
 
-### 3.1 Overview Dashboard
+The deployed application provides access to:
 
-![Overview Dashboard](screenshots/overview.png)
+- **Overview Dashboard:** Monitor HR service desk activity and key metrics.
+- **HR Assistant:** Ask HR policy questions and receive AI-generated, policy-grounded responses.
+- **Ticket Explorer:** Explore synthetic HR support tickets and their details.
+- **SLA Command Center:** Monitor response and resolution deadlines.
+- **Anomaly Intelligence:** Identify predefined operational anomalies.
+- **Policy Library:** Explore the available HR policy knowledge base.
 
-### 3.2 HR Assistant
+*Note: The application uses synthetic employee data and illustrative HR policies for demonstration purposes.*
 
-![HR Assistant](screenshots/hr-assistant.png)
-
-### 3.3 SLA Command Center
-
-![SLA Command Center](screenshots/sla-command-center.png)
-
-### 3.4 Anomaly Intelligence
-
-![Anomaly Intelligence](screenshots/anomaly-intelligence.png)
-
-### 3.5 Ticket Explorer
-
-![Ticket Explorer](screenshots/ticket-explorer.png)
-
----
 
 ## 4. Technology Stack
 
